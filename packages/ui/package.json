@@ -28,15 +28,15 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "dependencies": {
-    "@blueprintjs/core": "^4.16.3",
-    "@blueprintjs/popover2": "^1.13.3",
+    "@blueprintjs/core": "^5.0.0",
+    "@blueprintjs/popover2": "^2.0.0",
     "@headlessui/react": "^1.7.17",
     "@popperjs/core": "^2.11.8",
     "clsx": "^2.0.0",
     "react-color": "^2.19.3",
     "react-dom": "^18.2.0",
     "react-popper": "^2.3.0",
-    "tailwind-merge": "^2.0.0"
+    "tailwind-merge": "^2.4.0"
   },
   "devDependencies": {
     "@types/node": "^20.5.2",
