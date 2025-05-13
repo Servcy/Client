@@ -38,7 +38,7 @@
     "@tiptap/extension-placeholder": "^2.1.13",
     "@tiptap/pm": "^2.1.13",
     "@tiptap/suggestion": "^2.1.13",
-    "eslint-config-next": "13.2.4",
+    "eslint-config-next": "15.0.0",
     "lucide-react": "^0.309.0",
     "react-popper": "^2.3.0",
     "tippy.js": "^6.3.7",
