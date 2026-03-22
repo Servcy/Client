@@ -31,7 +31,7 @@
   "dependencies": {
     "@servcy/editor-core": "*",
     "@tiptap/core": "^2.1.13",
-    "@tiptap/pm": "^2.1.13",
+    "@tiptap/pm": "^2.11.5",
     "@tiptap/react": "^2.1.13",
     "@tiptap/suggestion": "^2.1.13",
     "eslint-config-next": "13.2.4",
